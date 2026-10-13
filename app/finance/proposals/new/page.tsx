@@ -23,7 +23,7 @@ const FALLBACK_TEMPLATE = {
 
 I hope this message finds you well.
 
-I am writing on behalf of the IEEE Computer Society Student Branch Chapter of Uva Wellassa University to invite {{company_name}} to partner with us for UvaXtreme 2026 (Edition V3) — our flagship group-based competitive programming competition.
+I am writing on behalf of the IEEE Computer Society Student Branch Chapter of Uva Wellassa University to invite {{company_name}} to partner with us for UvaXtreme 2026 (Edition V3) , our flagship group-based competitive programming competition.
 
 UvaXtreme is an initiative designed to challenge and enhance problem-solving, algorithmic programming, and teamwork skills among undergraduate students, preparing them for future academic, professional, and real-world challenges. Following the successful completion of UvaXtreme V1 (2024) and V2 (2025), this year’s edition aims to expand its reach through stronger industry collaboration and greater participation.
 
